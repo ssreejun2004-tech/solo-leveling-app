@@ -1,0 +1,6 @@
+{
+  "name": "Solo Leveler",
+  "description": "Gamified fitness tracker and quest system inspired by Solo Leveling with a neon dark mode UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
